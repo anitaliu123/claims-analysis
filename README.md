@@ -74,10 +74,12 @@ One row per **diagnosis code**, containing:
 
 ## Required Libraries 
 
-pandas>=1.3.0
-numpy>=1.21.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-jupyter
+    ```
+    pandas>=1.3.0
+    numpy>=1.21.0
+    matplotlib>=3.4.0
+    seaborn>=0.11.0
+    jupyter
+    ```
 
 I put these in ``requirements.txt``
